@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelrhman Ebian
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning React js
+- 👀 I’m developing websites
+- 🌱 I've become mern stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 look at my linkedin profile :https://www.linkedin.com/in/abdelrhmanebian
 
